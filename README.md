@@ -49,7 +49,7 @@ This project is a **frontend implementation for educational and portfolio purpos
 
 - **React**
 - **Material UI (MUI)**
-- **Vite / CRA** (هر کدوم که استفاده کردی)
+- **Vite**
 - **CSS-in-JS (MUI styling system)**
 - **Vercel** for deployment
 
@@ -59,16 +59,13 @@ This project is a **frontend implementation for educational and portfolio purpos
 
 ```bash
 # clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/WebRezaSeyyednezhad/Trendex.git
 
 # install dependencies
 npm install
 
 # run the project
 npm run dev
-
-# Open in browser:
-http://localhost:5173
 ```
 
 ---
