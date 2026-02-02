@@ -1,12 +1,126 @@
-# React + Vite
+# Trendex – HR Management SaaS (Features Page)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Trendex Cover](./assets/cover.png)
 
-Currently, two official plugins are available:
+A modern, responsive **HR Management SaaS Features Page** built with **React** and **Material UI (MUI)**.  
+This project showcases a clean UI/UX for presenting core HR product features such as onboarding, performance tracking, attendance, and employee growth — designed with a strong focus on usability, clarity, and conversion.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Demo (Vercel):**  
+👉 https://your-vercel-link.vercel.app  
 
-## Expanding the ESLint configuration
+📦 **Repository:**  
+👉 https://github.com/your-username/your-repo-name
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- ✅ Fully responsive layout (mobile, tablet, desktop)
+- 🎨 Clean, modern UI inspired by real-world SaaS products
+- ⚡ Built with React + MUI (Material UI)
+- 🔄 Pricing section with monthly/yearly toggle
+- 📊 Data-driven sections for HR features
+- ♿ Accessible and user-focused component design
+- 🚀 Deployed on Vercel
+
+---
+
+## 🧠 Design Inspiration & Credits
+
+This UI is inspired by the following Dribbble shot:
+
+**Original Design:**  
+> *HR Management SaaS Website Design – Features Page*  
+> by **Ilias Miah ✪ for Opndoo Studio**  
+> 🔗 https://dribbble.com/shots/26068073-HR-Management-SAAS-Website-Design-Features-Page  
+
+All credit for the original visual concept goes to the designer.  
+This project is a **frontend implementation for educational and portfolio purposes**.
+
+---
+
+## 🛠 Tech Stack
+
+- **React**
+- **Material UI (MUI)**
+- **Vite / CRA** (هر کدوم که استفاده کردی)
+- **CSS-in-JS (MUI styling system)**
+- **Vercel** for deployment
+
+---
+
+## ⚙️ Getting Started (Local Setup)
+
+```bash
+# clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# install dependencies
+npm install
+
+# run the project
+npm run dev
+
+# Open in browser:
+http://localhost:5173
+```
+
+---
+
+## 🎯 Purpose of This Project
+
+This project was built to:
+
+- **Practice real-world SaaS UI implementation**
+- **Improve component-based architecture in React**
+- **Demonstrate clean design integration with MUI**
+- **Serve as a portfolio-ready frontend project**
+
+---
+
+## 🔮 Possible Improvements (Roadmap)
+
+ - **Add animations (Framer Motion)**
+ - **Implement dark mode toggle**
+ - **Connect to a mock backend (API simulation)**
+ - **Add authentication UI (login/register)**
+ - **Convert to full landing page with Hero + CTA sections**
+ - **Performance optimizations (lazy loading, code splitting)**
+
+---
+
+## 📄 License
+
+- **This project is open-source and available under the MIT License.**
+- **Feel free to use, modify, and build upon it.**
+
+---
+
+## 👥 Team & Credits
+
+This project is the result of collaboration between design inspiration and frontend implementation:
+
+### 🎨 UI/UX Design (Inspiration)
+**Ilias Miah ✪ for Opndoo Studio**  
+- Role: Product UI/UX Designer  
+- Platform: Dribbble  
+- Original Design:  
+  https://dribbble.com/shots/26068073-HR-Management-SAAS-Website-Design-Features-Page  
+
+> The visual design and layout ideas are inspired by the original Dribbble concept.  
+> All creative credit for the design direction belongs to the designer.
+
+---
+
+### 💻 Frontend Development & Implementation
+**Reza Seyyednezhad**  
+- Role: Frontend Developer  
+- Tech: React, Material UI (MUI)  
+- Responsibilities:
+  - Component architecture  
+  - Responsive layout implementation  
+  - Pricing toggle logic  
+  - Deployment on Vercel  
+  - Performance and accessibility considerations  
+
+> This repository contains the full frontend implementation of the design using modern React and MUI best practices.
