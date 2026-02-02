@@ -92,13 +92,6 @@ This project was built to:
 
 ---
 
-## 📄 License
-
-- **This project is open-source and available under the MIT License.**
-- **Feel free to use, modify, and build upon it.**
-
----
-
 ## 👥 Team & Credits
 
 This project is the result of collaboration between design inspiration and frontend implementation:
@@ -127,3 +120,10 @@ This project is the result of collaboration between design inspiration and front
   - Performance and accessibility considerations  
 
 > This repository contains the full frontend implementation of the design using modern React and MUI best practices.
+
+---
+
+## 📄 License
+
+- **This project is open-source and available under the MIT License.**
+- **Feel free to use, modify, and build upon it.**
