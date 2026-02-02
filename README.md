@@ -1,6 +1,12 @@
 # Trendex – HR Management SaaS (Features Page)
 
-![Trendex Cover](./assets/cover.png)
+---
+
+<p align="center">
+  <img src="./assets/cover.png" width="700">
+</p>
+
+---
 
 A modern, responsive **HR Management SaaS Features Page** built with **React** and **Material UI (MUI)**.  
 This project showcases a clean UI/UX for presenting core HR product features such as onboarding, performance tracking, attendance, and employee growth — designed with a strong focus on usability, clarity, and conversion.
