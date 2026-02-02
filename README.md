@@ -6,10 +6,10 @@ A modern, responsive **HR Management SaaS Features Page** built with **React** a
 This project showcases a clean UI/UX for presenting core HR product features such as onboarding, performance tracking, attendance, and employee growth — designed with a strong focus on usability, clarity, and conversion.
 
 🔗 **Live Demo (Vercel):**  
-👉 https://your-vercel-link.vercel.app  
+👉 https://trendex-three.vercel.app 
 
 📦 **Repository:**  
-👉 https://github.com/your-username/your-repo-name
+👉 https://github.com/WebRezaSeyyednezhad/Trendex
 
 ---
 
